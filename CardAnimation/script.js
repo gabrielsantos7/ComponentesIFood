@@ -1,5 +1,5 @@
-const divRotate = document.getElementById("div-view-more");
-const imgRotate = document.getElementById("img-view-more");
+let divRotate = document.getElementById("div-view-more");
+let imgRotate = document.getElementById("img-view-more");
 let spanMore = document.getElementById("span-more");
 let captionMore = document.getElementById("caption-more");
 
